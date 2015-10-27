@@ -1,0 +1,18 @@
+name: PrisonRP
+version: 1.0
+main: me.ryandw11.prisonrp.core.Main
+author: ryandw11
+description: This is a PrisonRP plugin!
+commands:
+    lockpick:
+     description: Gives you the lock pick!
+     aliases: [lp, lpick]
+    advert:
+     description: The RolePlay Action Message!
+     aliases: [a, av]
+    riot:
+     description: Start a prison riot!
+     aliases: [r, rpriot]
+    class:
+     description: Change your class!
+     aliases: [c, rpclass]
